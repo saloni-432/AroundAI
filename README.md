@@ -46,10 +46,3 @@ npm install
 4. Wait a few seconds while the AI processes your prompt.
 5. View the generated image and download it if desired.
 
-## 🖼️Screenshots
-
-### 🎨Home Page
-![Home Page](./screenshots/home.png)
-
-### ✨Generated Image Example
-![Generated Image](./screenshots/generated.png)
