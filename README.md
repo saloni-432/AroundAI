@@ -2,14 +2,14 @@
 
 An interactive, modern web app that brings your imagination to life using AI! ✨ With a clean React UI, Tailwind CSS styling, and the OpenAI API powering the magic. The application leverages AI to convert natural language prompts into visually compelling images using the OpenAI API.
 
-##  Features
+## ✨Features
 
 - 🖼 Seamless integration with the **OpenAI API** for high-quality image generation  
 - 🎨 Clean, responsive design built with **React.js** and **Tailwind CSS**  
 - 💡 Dynamic customization—tweak prompts and parameters to refine results  
 - 📱 Optimized for multiple screen sizes for a seamless user experience  
 
-##  Tech Stack
+## 🛠️Tech Stack
 
 | Layer       | Technology               |
 |-------------|--------------------------|
@@ -17,7 +17,7 @@ An interactive, modern web app that brings your imagination to life using AI! �
 | Backend     | Node.js                  |
 | AI Engine   | OpenAI API               |
 
-##  Getting Started
+## ⚙️Getting Started
 
 ### Prerequisites
 
